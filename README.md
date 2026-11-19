@@ -1,4 +1,4 @@
-# DriveAssistant
+# SLOFLOW
 
 플레오스 커넥트의 사용성·안전성·즉시성 원칙에 맞춘 Android Jetpack Compose 프론트엔드입니다.
 
